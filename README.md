@@ -1,4 +1,4 @@
-# Coalesce-VS-Stev-Fantrack
+# Coalesce (VS Stev Fantrack)
 "storage" page for coalesce parts and the full coalesce. using github because it's easier
 
 if you want to, you can put your own parts in a pull request
