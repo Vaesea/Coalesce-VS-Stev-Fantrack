@@ -7,7 +7,7 @@ you can use any part here, the license is CC-BY-4.0 which may sound scary but it
 
 ## PARTS + CREDITS + TIMES (the credits are there just in case anyone else adds a part):
 
-### The Stev Part
+### The Stev Round
 - [ ] Stev - Vaesea - 0:00
 - [ ] Angry Stev
 - [ ] Stev with a gun
@@ -27,31 +27,31 @@ you can use any part here, the license is CC-BY-4.0 which may sound scary but it
 - [ ] Disrelish 8 Stev
 - [ ] Disrelish 8.5 Stev
 
-### The Heavev Part
+### The Heavev Round
 - [ ] Heavev Phase 1
 - [ ] Heavev Phase 2
 - [ ] Heavev Phase 3
 - [ ] Blue Heavev
 - [ ] Green Heavev
 
-### The Arratev Part
+### The Arratev Round
 - [ ] Arratev Phase 1
 - [ ] Arratev Phase 2
 - [ ] Arratev Phase 3
 
-### The UPO Part
+### The UPO Round
 - [ ] Upo Phase 1
 - [ ] Upo Phase 2
 - [ ] Upo Phase 3
 - [ ] Upo Phase 4
 
-### The Chri Part
+### The Chri Round
 - [ ] Chri Phase 1
 - [ ] Chri Phase 2
 - [ ] Chri Phase 3
 - [ ] Chri Phase 4
 
-### The Random Part
+### The Random Round
 - [ ] Stran Phase 1
 - [ ] Stran Phase 2
 - [ ] Doz
@@ -59,7 +59,7 @@ you can use any part here, the license is CC-BY-4.0 which may sound scary but it
 - [ ] Taylo
 - [ ] Stvev
 
-### The Finale
+### The Finale Round
 - [ ] Causuftev
 - [ ] Heavev Phase 4
 - [ ] Arratev Phase 4
