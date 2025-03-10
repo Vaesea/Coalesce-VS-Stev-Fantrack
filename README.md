@@ -5,6 +5,8 @@ if you want to, you can make a part and put it in a pull request
 
 you can use any part, round or the full thing here, the license is CC-BY-4.0 which may sound scary but it means you can use anything here, but you need to give credit if you do.
 
+This is planned to be 6 hours long. If there's any new parts needed to achieve that I'll add them to the list (that's the whole reason why the team round exists)
+
 ## PARTS + CREDITS + TIMES (the credits are there just in case anyone else adds a part):
 
 ### The Stev Round
@@ -57,6 +59,21 @@ you can use any part, round or the full thing here, the license is CC-BY-4.0 whi
 - [ ] Piss
 - [ ] Taylo
 - [ ] Stvev
+
+### The Team Round
+- [ ] Cheating Stev + Heavev Phase 3
+- [ ] Cheating Stev + Arratev Phase 3
+- [ ] Cheating Stev + Upo Phase 4
+- [ ] Cheating Stev + Chri Phase 4
+- [ ] Cheating Stev + Stran Phase 2
+- [ ] Cheating Stev + Stvev
+- [ ] Doz + Piss + Taylo
+- [ ] Heavev Phase 3 + Blue Heavev
+- [ ] Heavev Phase 3 + Green Heavev
+- [ ] Heavev Phase 3 + Arratev Phase 3
+- [ ] Blue Heavev + Green Heavev
+- [ ] Upo Phase 4 + Chri Phase 4
+- [ ] Heavev Phase 3 + Doz
 
 ### The Finale Round
 - [ ] Causuftev
