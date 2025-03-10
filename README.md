@@ -8,7 +8,7 @@ you can use any part here, the license is CC-BY-4.0 which may sound scary but it
 ## PARTS + CREDITS + TIMES (the credits are there just in case anyone else adds a part):
 
 ### The Stev Round
-- [ ] Stev - Vaesea - 0:00
+- [x] Stev - Vaesea - 0:00
 - [ ] Angry Stev
 - [ ] Stev with a gun
 - [ ] Cheating Stev
