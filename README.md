@@ -3,7 +3,7 @@
 
 if you want to, you can put your own parts in a pull request
 
-you can use any part here, the license is CC-BY-4.0 which may sound scary but it means you can use anything here, but you need to give credit if you do.
+you can use any part, round or the full thing here, the license is CC-BY-4.0 which may sound scary but it means you can use anything here, but you need to give credit if you do.
 
 ## PARTS + CREDITS + TIMES (the credits are there just in case anyone else adds a part):
 
