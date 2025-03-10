@@ -10,8 +10,7 @@ you can use any part, round or the full thing here, the license is CC-BY-4.0 whi
 ### The Stev Round
 - [x] Stev - Vaesea - 0:00
 - [x] Angry Stev - Vaesea - 2:27
-- [ ] Stev with a gun - Vaesea - 4:55
-- [ ] Cheating Stev
+- [x] Cheating Stev - Vaesea - 4:55
 - [ ] Beacon Stev
 - [ ] Ecclesiophobia Stev
 - [ ] Fear Of God Stev
