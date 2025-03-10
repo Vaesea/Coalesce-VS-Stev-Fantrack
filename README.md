@@ -9,7 +9,7 @@ you can use any part here, the license is CC-BY-4.0 which may sound scary but it
 
 ### The Stev Round
 - [x] Stev - Vaesea - 0:00
-- [ ] Angry Stev
+- [ ] Angry Stev - Vaesea - 2:27
 - [ ] Stev with a gun
 - [ ] Cheating Stev
 - [ ] Beacon Stev
