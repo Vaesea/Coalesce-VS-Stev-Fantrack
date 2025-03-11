@@ -15,8 +15,8 @@ This is planned to be 6 hours long. If there's any new parts needed to achieve t
 - [x] Cheating Stev - Vaesea - 4:55
 - [x] Beacon Stev - Vaesea - 7:08
 - [x] Ecclesiophobia Stev - Vaesea - 9:26
-- [ ] Fear Of God Stev - Vaesea - 11:41
-- [ ] Ear Infection Stev
+- [x] Fear Of God Stev - Vaesea - 11:41
+- [ ] Ear Infection Stev - Vaesea - 14:03
 - [ ] Special Stev
 - [ ] Laughter Stev
 - [ ] Disrelish Stev - Vaesea
