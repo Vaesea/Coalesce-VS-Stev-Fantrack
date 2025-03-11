@@ -16,8 +16,7 @@ This is planned to be 6 hours long. If there's any new parts needed to achieve t
 - [x] Beacon Stev - Vaesea - 7:08
 - [x] Ecclesiophobia Stev - Vaesea - 9:26
 - [x] Fear Of God Stev - Vaesea - 11:41
-- [ ] Ear Infection Stev - Vaesea - 14:03
-- [ ] Special Stev
+- [ ] Special Stev - Vaesea - 14:03
 - [ ] Laughter Stev
 - [ ] Disrelish Stev - Vaesea
 - [ ] Revulsion Stev
@@ -27,6 +26,7 @@ This is planned to be 6 hours long. If there's any new parts needed to achieve t
 - [ ] Recycled Stev
 - [ ] Disrelish 8 Stev
 - [ ] Disrelish 8.5 Stev
+- [ ] Ear Infection Stev
 
 ### The Heavev Round
 - [ ] Heavev Phase 1
