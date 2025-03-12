@@ -17,6 +17,8 @@ This is planned to be 6 hours long. If there's any new parts needed to achieve t
 - [x] Ecclesiophobia Stev - Vaesea - 9:26
 - [x] Fear Of God Stev - Vaesea - 11:41
 - [x] Special Stev - Vaesea - 14:03
+
+### The Disrelish Round
 - [x] Disrelish Stev - Vaesea - 16:01
 - [ ] Revulsion Stev - Vaesea - 18:18
 - [ ] Disintegrated Stev
